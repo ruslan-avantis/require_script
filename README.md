@@ -489,3 +489,22 @@ $.getScript(executeScript(python_string, 'capwords'), function(){ capwords(param
 
 $.getScript(executeScript(ruby_math, 'acos'), function(){ acos(param) });
 ```
+
+<a name="feedback"></a>
+## Поддержка, обратная связь, новости
+
+Общайтесь с нами через почту open.source@pllano.com
+
+Если вы нашли баг в работе require_script.js загляните в
+[issues](https://github.com/pllano/require_script/issues), возможно, про него мы уже знаем и
+чиним. Если нет, лучше всего сообщить о нём там. Там же вы можете оставлять свои
+пожелания и предложения.
+
+За новостями вы можете следить по
+[коммитам](https://github.com/pllano/require_script/commits/master) в этом репозитории.
+[RSS](https://github.com/pllano/require_script/commits/master.atom).
+
+Лицензия на библиотеку require_script.js
+-------
+
+The MIT License (MIT). Please see [LICENSE](LICENSE.md) for more information.
