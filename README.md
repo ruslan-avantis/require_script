@@ -507,4 +507,4 @@ $.getScript(executeScript(ruby_math, 'acos'), function(){ acos(param) });
 Лицензия на библиотеку require_script.js
 -------
 
-The MIT License (MIT). Please see [LICENSE](LICENSE.md) for more information.
+The MIT License (MIT). Please see [LICENSE](https://github.com/pllano/require_script/blob/master/LICENSE) for more information.
