@@ -1,6 +1,6 @@
 # require_script.js
 ```html
-<script src="https://cdn.joomimart.com/require_script/1.0.1/require_script.js"></script>
+<script src="https://raw.githubusercontent.com/ruslan-avantis/require_script/master/require_script.js"></script>
 or
 <script src="/templates/lib/require_script-1.0.1/require_script.js"></script>
 ```
